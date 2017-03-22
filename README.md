@@ -18,5 +18,5 @@
 <h3>Delete</h3>
 
 ```Objective-c
-        [CCKeychain delete:KEY_USERNAME_PASSWORD];
+    [CCKeychain delete:KEY_USERNAME_PASSWORD];
 ```
